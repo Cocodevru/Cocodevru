@@ -1,7 +1,7 @@
 Веб-разработчик
 ---------------
 
-Я начинающий веб-разработчик. Занимаюсь разработкой/созданием веб-сайтов и веб-дизайном более 1 года. Пока, что владею: HTML5, CSS3, Sass/Scss, JavaScript на среднем уровне, Python - на начальном уровне. Также я изучаю: Python, C++, PHP, Angular, TypeScript, Vue.js, Figma, Bootstrap. Создаю удобные, красивые и качественные сайты!
+Я начинающий веб-разработчик. Занимаюсь разработкой/созданием веб-сайтов и веб-дизайном более 1 года. Пока, что владею: HTML5, CSS3, Sass/Scss, JavaScript, WordPress на среднем уровне, Python - на начальном уровне. Также я изучаю: Python, C++, PHP, Angular, TypeScript, Vue.js, Figma, Bootstrap. Создаю удобные, красивые и качественные сайты!
 
 <a href="https://www.github.com/Cocodevru" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Cocodevru?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
